@@ -1,6 +1,6 @@
-import React from 'react';
-import Scroll from '../common/Scroll';
-import logo from '../../../assets/ai.png';
+import React from "react";
+import Scroll from "../common/Scroll";
+import logo from "../../../assets/ai.png";
 
 const Introduction = () => (
   <section id="intro" className="wrapper style1 fullscreen fade-up">
@@ -8,13 +8,13 @@ const Introduction = () => (
       <span
         className="image fit"
         style={{
-          marginBottom: '8rem',
-          display: 'flex',
-          flexDirection: 'column',
-          alignItems: 'center',
+          marginBottom: "8rem",
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
         }}
       >
-        <img src={logo} alt="" style={{ width: '300px' }} />
+        <img src={logo} alt="" style={{ width: "300px" }} />
       </span>
       <h1>I want AI</h1>
       <p>
@@ -26,8 +26,8 @@ const Introduction = () => (
       <p>
         In todays environment AI is everything. It is the hottest buzzword
         around and gets more attention than anything else. We enable you to
-        leverage <b>decentralized</b>, <b>cloud based</b>,
-        <b>machine learning</b> to boost your bragging rights.
+        leverage <b>decentralized</b>, <b>cloud based</b>
+        <b> machine learning</b> to boost your boasting?.
       </p>
       <ul className="actions">
         <li>
