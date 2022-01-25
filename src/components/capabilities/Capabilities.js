@@ -18,8 +18,8 @@ const Capabilities = () => (
       <p>
         We know you might feel uncomfortable making untrue claims just to boost
         your marketing? Don't worry AI is a very fuzzy term, it is very unlikely
-        that someone will ask you about detail. Still, we offer a redundant
-        implementation of a random neural network.
+        that someone will ask you about any details. Still, for a small extra fee 
+        you can use our neural network increment predictor.
       </p>
 
       <div className="features">
