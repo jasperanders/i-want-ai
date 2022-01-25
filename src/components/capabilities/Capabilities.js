@@ -11,7 +11,7 @@ const Capabilities = () => (
         We offer an expert approved <b>AI certificate</b> widget. Our customers
         use it on flyers, on their website and in many other ways. Additionally
         we add you to our customer segment, so you can bragg about working with
-        an agile tech company. Lastly we offer SOE for AI connected terms so
+        an agile tech company. Lastly we offer SEO for AI connected terms so
         your company can also profit from the AI-Hypetrain.
       </p>
       <h3>Legal Concerns?</h3>
