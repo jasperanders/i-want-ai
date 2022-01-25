@@ -27,7 +27,7 @@ const Introduction = () => (
         In todays environment AI is everything. It is the hottest buzzword
         around and gets more attention than anything else. We enable you to
         leverage <b>decentralized</b>, <b>cloud based</b>
-        <b> machine learning</b> to boost your boasting?.
+        <b> machine learning</b> to boost your boasting!
       </p>
       <ul className="actions">
         <li>
